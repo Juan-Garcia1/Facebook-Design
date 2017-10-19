@@ -1,0 +1,35 @@
+/*
+  GLOBAL
+*/
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+img {
+  width: 100%;
+  display: block;
+}
+body {
+  background: rgb(250, 250, 250);
+  margin: 0;
+  font-family: sans-serif;
+}
+.intro, aside figure, main figure {
+  background: white;
+}
+h2 {
+  margin-top: 0;
+  font-weight: 100;
+}
+.header-btn {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 12px 15px;
+  margin-right: 8px;
+}
+.container {
+  transform: translateY(250px);
+}
